@@ -1,0 +1,12 @@
+ funzione controllo(numero1, numero2)
+	//verifico quale numero è uguale
+	se numero1 = numero2
+	allora
+    risultato = "uguali"
+	altrimenti
+	risultato= "diversi"
+	end
+
+	//restituisco il numero
+	restituisci numero
+fine
